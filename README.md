@@ -2,7 +2,8 @@
 ](https://main--majestic-squirrel-61c473.netlify.app/)
 <h1 align="center">Hi 👋, I'm Arief</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
-<img align="right" alt="Coding" width="700" src="https://user-images.githubusercontent.com/82442239/233000106-1524dbc5-58b5-4a02-a062-b67ef8048099.png">
+<img align="right" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/82442239/233000106-1524dbc5-58b5-4a02-a062-b67ef8048099.png">
+<br>
 
 - 🔭 I’m currently a student in **University of Malaya**
 

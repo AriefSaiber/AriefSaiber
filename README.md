@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
-- 🔭 I’m currently a student in **University of Malaya**
+- 🔭 I’m a graduate student from **University of Malaya** in Bachelor of Information Technology
 
 - 🌱 I’m currently learning **Front-End Development on Web and Mobile**
 
-- 👨‍💻 All of my projects are available at [https://main--majestic-squirrel-61c473.netlify.app/](https://main--majestic-squirrel-61c473.netlify.app/)
+- 👨‍💻 Take a look at my website available at [https://main--majestic-squirrel-61c473.netlify.app/](https://main--majestic-squirrel-61c473.netlify.app/)
 
 - 📫 How to reach me **ariefsaiber@gmail.com**
 

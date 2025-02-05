@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Arief</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 🔭 I’m a graduate student from **University of Malaya** in Bachelor of Information Technology
+- 🌱 Full Stack Engineer mainly on **Flutter** and **PHP**
 
-- 🌱 I’m currently learning **Front-End Development on Web and Mobile**
+- 🔭 I’m a graduate student from **University of Malaya** in Bachelor of Information Technology
 
 - 👨‍💻 Take a look at my website available at [https://main--majestic-squirrel-61c473.netlify.app/](https://main--majestic-squirrel-61c473.netlify.app/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arief shamsuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arief shamsuddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arief-shamsuddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arief shamsuddin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
